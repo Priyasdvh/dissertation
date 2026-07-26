@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Code, structured extraction matrices, and visualisations developed as part of the systematic review **"Data Quality Assessment of Claims-Based Healthcare Data: A Systematic Review."**
+Code, structured extraction matrices, and visualisations developed as part of the systematic review **"Data quality assessment of claims-based healthcare data: A systematic review."**
 
 ---
 
